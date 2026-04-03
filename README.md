@@ -24,8 +24,6 @@ Teams running traffic and account operations need predictable browser fingerprin
 
 ## Links
 - Main website: https://antilogin.com/
-- Affiliate page (source used for this overview): https://antilogin.com/antidetect-browser-for-affiliate-marketing/
-- Windows download: https://download.antilogin.com/AntiLogin-1.5.2.exe
-- macOS Apple Silicon download: https://download.antilogin.com/AntiLogin-1.5.2-arm64.dmg
+- Affiliate page: https://antilogin.com/antidetect-browser-for-affiliate-marketing/
+- Windows & macOS Apple Silicon download: https://antilogin.com
 - Telegram: https://t.me/antilogin_browser
-- GitHub organization profile: https://github.com/AntiLogin-antidetect-browser/.github
